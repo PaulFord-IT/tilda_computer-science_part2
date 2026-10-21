@@ -1,4 +1,3 @@
-<img width="1920" height="446" alt="image" src="https://github.com/user-attachments/assets/aaf62f83-9266-47f7-948c-740809a1f481" /># tilda_computer-science_part2
 Лабораторная работа №2
 # Анализ веб-приложения и клиент-серверного взаимодействия
 

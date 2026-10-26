@@ -153,7 +153,7 @@ Cookies используются в веб-приложениях для хра�
 - backend;
 - хранилище данных.
 
-![Архитектурная схема Ozon](images/screenshots/INF-Part2-step7-1(new).png)
+![Архитектурная схема Ozon](images/screenshots/INF-Part2-step7-1.png)
 
 ## 8. Схема взаимодействия компонентов
 
